@@ -9,8 +9,8 @@ Doc.AI có trụ sở tại Palo-Alto được thành lập bởi các doanh nh�
 ### 3. Synapse AI:
 Synapse AI là mạng lưới trí thông minh nhân tạo (AI) phân tán với mục đích tạo ra sự công bằng cho nền kinh tế AI. Hiện tại mọi người phải cho đi dữ liệu của họ đến các công ty tập trung để đổi lại quyền truy cập. Ví dụ upload và tag ảnh, chia sẻ vị trí địa lý của bạn. Với Synapse AI bạn có thể tham gia và nhận được tiền thưởng cho những thao tác như vậy.
 Cách thức hoạt động:
--	*Được trả tiền từ dữ liệu của bạn:* nhận được các phần thưởng từ việc đóng góp dữ liệu thông qua SYN token, sau đó bạn có thể dùng cho các dịch vụ của Synapse AI hoặc trade trên các sàn giao dịch.
--	*Sử dụng dữ liệu để máy tính học hỏi:* trí thông minh nhân tạo sẽ học hỏi từ dữ liệu người dùng, từ đó bạn có thể sử dụng các dữ liệu này cho dự án, công ty hoặc tổ chức của bạn
+-	**Được trả tiền từ dữ liệu của bạn:** nhận được các phần thưởng từ việc đóng góp dữ liệu thông qua SYN token, sau đó bạn có thể dùng cho các dịch vụ của Synapse AI hoặc trade trên các sàn giao dịch.
+-	**Sử dụng dữ liệu để máy tính học hỏi:** trí thông minh nhân tạo sẽ học hỏi từ dữ liệu người dùng, từ đó bạn có thể sử dụng các dữ liệu này cho dự án, công ty hoặc tổ chức của bạn
 
 ### 4. AI dApps:
 Cortex dựa trên blockchain đã công bố ra mắt mạng dựa trên AI cho các ứng dụng phi tập trung (DApp), có thể giúp tối ưu hóa các dịch vụ tài chính. Công ty hy vọng sẽ sử dụng công nghệ này để tạo báo cáo tín dụng cho các dịch vụ tài chính phi tập trung, xây dựng các hệ thống chống gian lận tốt hơn và thậm chí hỗ trợ chơi game và esports.
