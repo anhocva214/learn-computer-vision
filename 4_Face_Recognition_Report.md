@@ -7,7 +7,7 @@
 >**Tính năng đã khai thác được:** Đã sử dụng để detect được mọi vật trong images, videos và webcam nhưng vẫn có sai số trong quá trình detect.
 * Kết quả :
 
-![Ảnh từ webcam](https://github.com/anhocva214/learn-computer-vision/blob/master/images/yoylov5-webcam.png)
+![Ảnh từ webcam](https://github.com/anhocva214/learn-computer-vision/blob/master/images/yoylov5-webcam.jpg)
 
 
 ## Javascript Language:
