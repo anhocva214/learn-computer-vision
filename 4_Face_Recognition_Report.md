@@ -12,7 +12,7 @@
 ***Kết quả từ webcam***
 
 
-![Kết quả từ ảnh](https://github.com/anhocva214/learn-computer-vision/blob/master/images/yoylov5-image.jpg)
+![Kết quả từ ảnh](https://github.com/anhocva214/learn-computer-vision/blob/master/images/yoylov5-image.png)
 
 ***Kết quả từ ảnh***
 
