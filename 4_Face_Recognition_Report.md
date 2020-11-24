@@ -7,12 +7,12 @@
 >**Tính năng đã khai thác được:** Đã sử dụng để detect được mọi vật trong images, videos và webcam nhưng vẫn có sai số trong quá trình detect.
 * Kết quả :
 
-![Kết quả webcam](https://github.com/anhocva214/learn-computer-vision/blob/master/images/yoylov5-webcam.jpg)
+![Kết quả webcam](https://github.com/anhocva214/learn-computer-vision/blob/master/images/yolov5-webcam.jpg)
 
 ***Kết quả từ webcam***
 
 
-![Kết quả từ ảnh](https://github.com/anhocva214/learn-computer-vision/blob/master/images/yoylov5-image.png)
+![Kết quả từ ảnh](https://github.com/anhocva214/learn-computer-vision/blob/master/images/yolov5-image.png)
 
 ***Kết quả từ ảnh***
 
@@ -29,7 +29,7 @@
 
 ***Kết quả từ video:*** https://drive.google.com/file/d/1PX3KkM0XU0xqyUgQij_FSBfPrNgayCO1/view?usp=sharing
 
-![Kết quả từ ảnh](https://github.com/anhocva214/learn-computer-vision/blob/master/images/yoylov3-image.jpg)
+![Kết quả từ ảnh](https://github.com/anhocva214/learn-computer-vision/blob/master/images/yolov3-image.jpg)
 
 ***Kết quả từ ảnh***
 
