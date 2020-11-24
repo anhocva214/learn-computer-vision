@@ -2,12 +2,36 @@
 
 ## Python Language:
 1. YOLO v5:
->**Khái niệm:**  Yolo là một mô hình mạng CNN cho việc phát hiện, nhận dạng, phân loại đối tượng. Yolo được tạo ra từ việc kết hợp giữa các convolutional layers và connected layers.Trong đóp các convolutional layers sẽ trích xuất ra các feature của ảnh, còn full-connected layers sẽ dự đoán ra xác suất đó và tọa độ của đối tượng.
+>**Mô tả:**  Yolo là một mô hình mạng CNN cho việc phát hiện, nhận dạng, phân loại đối tượng. Yolo được tạo ra từ việc kết hợp giữa các convolutional layers và connected layers.Trong đóp các convolutional layers sẽ trích xuất ra các feature của ảnh, còn full-connected layers sẽ dự đoán ra xác suất đó và tọa độ của đối tượng.
 * Link github: https://github.com/ultralytics/yolov5
 >**Tính năng đã khai thác được:** Đã sử dụng để detect được mọi vật trong images, videos và webcam nhưng vẫn có sai số trong quá trình detect.
 * Kết quả :
 
-![Ảnh từ webcam](https://github.com/anhocva214/learn-computer-vision/blob/master/images/yoylov5-webcam.jpg)
+![Kết quả webcam](https://github.com/anhocva214/learn-computer-vision/blob/master/images/yoylov5-webcam.jpg)
+
+***Kết quả từ webcam***
+
+
+![Kết quả từ ảnh](https://github.com/anhocva214/learn-computer-vision/blob/master/images/yoylov5-image.jpg)
+
+***Kết quả từ ảnh***
+
+***Kết quả từ video:*** https://drive.google.com/file/d/1PX3KkM0XU0xqyUgQij_FSBfPrNgayCO1/view?usp=sharing
+
+2. Face Recognition YOLO v3
+>**Mô tả:** Sử dụng mô hình YOLO v3 để detect face trong ảnh, video và webcam
+
+* Link github: https://github.com/sthanhng/yoloface
+
+>**Tính năng đã khai thác được:** Đã sử dụng để detect được khuôn mặt trong images, videos và webcam nhưng tốc độ xử lý chậm
+
+* Kết quả :
+
+***Kết quả từ video:*** https://drive.google.com/file/d/1PX3KkM0XU0xqyUgQij_FSBfPrNgayCO1/view?usp=sharing
+
+![Kết quả từ ảnh](https://github.com/anhocva214/learn-computer-vision/blob/master/images/yoylov3-image.jpg)
+
+***Kết quả từ ảnh***
 
 
 ## Javascript Language:
