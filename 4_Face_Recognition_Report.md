@@ -33,5 +33,19 @@
 
 ***Kết quả từ ảnh***
 
+3. Face Recognition Using OpenCV
+>**Mô tả:** source code sử dụng thư viện openCv và file haarcascade_frontalface_default.xml để detect và recognition face thông qua dataset khuoonn mặt từng đối tượng.
+
+* Link github: https://github.com/chandrikadeb7/Face-Recognition-in-Python
+
+* Kết quả:
+
+![Dataset](https://github.com/anhocva214/learn-computer-vision/blob/master/images/opencv-dataset.jpg)
+
+***Ảnh dataset***
+
+![Ảnh dự đoán từ webcam](https://github.com/anhocva214/learn-computer-vision/blob/master/images/opencv-test.jpg)
+
+***Ảnh dự đoán từ webcam***
 
 ## Javascript Language:

