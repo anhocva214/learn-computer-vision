@@ -1,6 +1,7 @@
 # FACE RECOGNITION REPORT
 
 ## Python Language:
+
 ### 1. YOLO v5:
 >**Mô tả:**  Yolo là một mô hình mạng CNN cho việc phát hiện, nhận dạng, phân loại đối tượng. Yolo được tạo ra từ việc kết hợp giữa các convolutional layers và connected layers.Trong đóp các convolutional layers sẽ trích xuất ra các feature của ảnh, còn full-connected layers sẽ dự đoán ra xác suất đó và tọa độ của đối tượng.
 * Link github: https://github.com/ultralytics/yolov5
@@ -27,16 +28,18 @@
 
 * Kết quả :
 
-***Kết quả từ video:*** https://drive.google.com/file/d/1PX3KkM0XU0xqyUgQij_FSBfPrNgayCO1/view?usp=sharing
+<!-- ***Kết quả từ video:*** https://drive.google.com/file/d/1PX3KkM0XU0xqyUgQij_FSBfPrNgayCO1/view?usp=sharing -->
 
 ![Kết quả từ ảnh](https://github.com/anhocva214/learn-computer-vision/blob/master/images/yolov3-image.jpg)
 
 ***Kết quả từ ảnh***
 
 ### 3. Face Recognition Using OpenCV
->**Mô tả:** source code sử dụng thư viện openCv và file haarcascade_frontalface_default.xml để detect và recognition face thông qua dataset khuoonn mặt từng đối tượng.
+>**Mô tả:** source code sử dụng thư viện openCv và file haarcascade_frontalface_default.xml để detect và recognition face thông qua dataset khuôn mặt từng đối tượng từ webcam
 
 * Link github: https://github.com/chandrikadeb7/Face-Recognition-in-Python
+
+>**Tính năng đã khai thác được:** Đã sử dụng để detect và recognition được khuôn mặt trong webcam với tốc dộ nhanh nhưng độ chính xác không cao vào khoảng 30%-65%
 
 * Kết quả:
 
@@ -49,3 +52,5 @@
 ***Ảnh dự đoán từ webcam***
 
 ## Javascript Language:
+
+### 1. 
