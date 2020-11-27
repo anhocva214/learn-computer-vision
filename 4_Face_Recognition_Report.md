@@ -60,7 +60,7 @@
 
 >**Tính năng đã khai thác được:** Tích hợp được cho web về chức năng `Face Recognition` và `Face Landmark Detection`, bên cạnh còn 1 số tính năng chưa tìm hiểu. 
 
->Mặc khác độ chính xác rừ 70-95% nhưng tốc độ hơi chậm vì camera chụp hình đến xử lý hình liên tục và đưa ra kết qua liên tục. Mỗi lượt như vây mất khoảng 700-1000ms.
+>Mặc khác độ chính xác rừ 70-95% nhưng tốc độ hơi chậm vì camera chụp hình -> xử lý hình liên tục -> đưa ra kết qua liên tục. Mỗi lượt như vậy mất khoảng 700-1000ms.
 
 * Kết quả:
 
