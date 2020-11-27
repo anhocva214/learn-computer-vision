@@ -53,4 +53,22 @@
 
 ## Javascript Language:
 
-### 1. 
+### 1. Face-api.js
+>**Mô tả:** Sử dụng tensorflow và 1 số model đuợc build sẵn phục vụ cho: `Face Recognition`, `Face Landmark Detection`, `Face Expression Recognition`, `Age Estimation` và `Gender Recognition`.
+
+* Link github: https://github.com/justadudewhohacks/face-api.js#face-api.js-for-the-browser
+
+>**Tính năng đã khai thác được:** Tích hợp được cho web về chức năng `Face Recognition` và `Face Landmark Detection`, bên cạnh còn 1 số tính năng chưa tìm hiểu. 
+
+>Mặc khác độ chính xác rừ 70-95% nhưng tốc độ hơi chậm vì camera chụp hình đến xử lý hình liên tục và đưa ra kết qua liên tục. Mỗi lượt như vây mất khoảng 700-1000ms.
+
+* Kết quả:
+
+![Face Recognition](https://github.com/anhocva214/learn-computer-vision/blob/master/images/faceapi-recognition.jpg)
+
+***Face Recognition***
+
+![Face Landmark](https://github.com/anhocva214/learn-computer-vision/blob/master/images/faceapi-landmark.jpg)
+
+***Face Landmark***
+
